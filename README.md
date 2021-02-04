@@ -7,4 +7,3 @@ https://butinho.000webhostapp.com/?function=
 
 ## Funções
 - [Followage]()
-- 
